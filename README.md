@@ -1,2 +1,2 @@
 # QSTP-Kratos_electronics-Solutions
-This is a solution repository for QSTP-Kratos_electronics
+This is a solution repository for adbidwai/QSTP-Kratos_electronics
