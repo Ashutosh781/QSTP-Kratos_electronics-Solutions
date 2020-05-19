@@ -22,7 +22,9 @@
 ##-----------------------------------------------------------------------------------------------------------------##
 
 ##TINKERCAD--ARDUINO QUESTIONS##
-
-LINKS IN ARDUINO QUESTIONS.PDF
+1) Question 1 - Volume Bar
+https://www.tinkercad.com/things/ddaOyueblgO-volumeques1/editel
+2) Question 2 - Binary
+https://www.tinkercad.com/things/fSDkCXCA7pI-binaryques2/editel
 
 ###------------------------------------------------END--------------------------------------------------------###
