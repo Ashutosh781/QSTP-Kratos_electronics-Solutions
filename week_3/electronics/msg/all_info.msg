@@ -1,0 +1,5 @@
+geometry_msgs/Twist velocity
+std_msgs/Float32 distance_travelled
+geometry_msgs/Pose coordinates
+std_msgs/Float32 battery
+std_msgs/Time time_of_travel
