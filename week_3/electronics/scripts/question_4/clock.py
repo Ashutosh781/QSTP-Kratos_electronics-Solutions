@@ -12,12 +12,18 @@ r3 = 0
 def seconds(s):
     global r1
     r1 = s.data
+    if s.data == 60:
+        r1 = 0
 def minutes(m):
     global r2
     r2 = m.data
+    if m.data == 60:
+        r2 = 0
 def hours(h):
     global r3
     r3 = h.data
+    if h.data == 24:
+        r3 = 0
 
 while not rospy.is_shutdown():
     rospy.Subscriber('second',Int32,seconds)
