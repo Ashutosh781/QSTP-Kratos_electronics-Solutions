@@ -23,6 +23,7 @@ $ roscore
 ##-----------------------------------------------------------------------------------------------------------------##
 
 ##SUBJECTIVE QUESTIONS##
+
 #QUESTION 1#
 #QUESTION 2#
 #QUESTION 3#
@@ -36,6 +37,7 @@ $roslaunch turtlebot3_gazebo turtlebot3_emptry_world.launch
 --RUN THE FILE BY ROSRUN IN SEPARATE TERMINAL
 
 --PROVIDE THE INPUT IF ASKED FOR 
+
 #QUESTION 4#
 #QUESTION 5#
 #QUESTION 6#
