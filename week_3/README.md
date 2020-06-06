@@ -1,6 +1,6 @@
 ##FOR PART A OF WEEK 3 
 
-## Kratos Communication Report.pdf HAS BEEN MADE
+##Kratos Communication Report.pdf HAS BEEN MADE
 
 ##FOR PART B OF WEEK 3
 
