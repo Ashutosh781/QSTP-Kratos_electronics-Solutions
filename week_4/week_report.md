@@ -1,0 +1,15 @@
+#THIS IS A WEEK 4 REPORT OF MY WORK ##
+
+##IN PART A
+
+-- WE LEARNT ABOUT DIFFERENTIAL DRIVE ROBOTS
+
+-- TURTLEBOT SIMULATION IN GAZEBO
+
+##IN PART B
+
+-- WE LEARNT ABOUT tf2 LIBRARY IN ROS AND ITS USE
+
+-- WE LEARNT ABOUT INVERSE AND FORWARD KINEMATICS
+
+##---------------------------------------------END --------------------------------------##
