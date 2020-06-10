@@ -5,6 +5,7 @@
 #IWOULD STRONGLY RECOMMEND TO USE VISUAL STUDIO CODE TO WATCH THE CONTENTS OF ALL THE CODE FILE#
 
 ##-----------------------------------------------------------------------------------------------------------------## 
+
 ##PYTHON QUESTIONS## 
 
 #QUESTION 1# prime_num.py
@@ -40,11 +41,13 @@
 ##TINKERCAD--ARDUINO QUESTIONS##
 
  1) Question 1 - Volume Bar 
+    
     https://www.tinkercad.com/things/ddaOyueblgO-volumeques1/editel 
     
     Run the simulation and rotate the knob of the potentiometer to observe the 5 LEDs
 
  2) Question 2 - Binary 
+    
     https://www.tinkercad.com/things/fSDkCXCA7pI-binaryques2/editel 
     
     Run the simulation and input an integer < 32 in serial monitor and observe it displayed in binary representation by 5 LEDs, you can also change the brightness by potentiometer
