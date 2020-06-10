@@ -3,6 +3,7 @@
 #IWOULD STRONGLY RECOMMEND TO USE VISUAL STUDIO CODE TO WATCH THE CONTENTS OF ALL THE CODE FILE#
 
 ##-----------------------------------------------------------------------------------------------------------------##
+
 ##PYTHON QUESTIONS##
 
 #QUESTION 1# distance.py
@@ -31,11 +32,13 @@
 ##TINKERCAD--ARDUINO QUESTIONS##
 
 1)  Question 1 - Fan
+    
     https://www.tinkercad.com/things/gJlJv7JBrse-fanweek2q1/editel
     
     Change light intensity by the slider on the photoresistor and observe changing RPM of DC motor
 
 2)  Question 2 - Security System
+    
     https://www.tinkercad.com/things/avULDWhogM5-security-systemweek2q2/editel
     
     Change the distance measured by ultrasonic sensor for alarm to go off.
@@ -45,11 +48,13 @@
     There is a reset button outside breadboard for if the entered password is wrong.
 
 3)  Question 3 - Light intensity sensor
+    
     https://www.tinkercad.com/things/bMrMN4W5vyM-light-intensity-sensorweek2q3/editel
     
     Change light intensity by the slider on the photoresistor and observe changing angle of servo motor
 
 4)  Question 4 - Robotic arm gripper
+    
     https://www.tinkercad.com/things/2uR7HLQ5ecW-robot-arm-gripperweek2q4/editel
     
     Input 1 - Open, 2 - Close, 3 - Stop on serial monitor
