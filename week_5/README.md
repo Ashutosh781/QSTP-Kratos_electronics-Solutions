@@ -35,7 +35,7 @@
 
 #OPEN THE eagle_schematics PROJECT IN EAGLE
 
-#EACH QUESTION SEPARATE SCHEMATIC ARE MADE INSIDE THE SAME PROJECT#
+#EACH QUESTION SEPARATE SCHEMATIC (.sch files) ARE MADE INSIDE THE SAME PROJECT#
 
 
 ##-----------------------------------------------------------------------------------------------------------------##
